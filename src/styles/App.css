@@ -1,0 +1,17 @@
+.App {
+    margin: 10px;
+}
+
+.jumbotron {
+    background-color: #ECEEEF;
+}
+
+.card{
+    background-color: #ECEEEF;
+    margin: 5px;
+}
+
+.form{
+    background-color: #ECEEEF;
+    text-align: center;
+}
